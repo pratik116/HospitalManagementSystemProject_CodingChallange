@@ -3,7 +3,7 @@ import Entity.Patient as P
 import Entity.Appointment as A
 import Entity.Doctor as D
 import dao.CreateTable as C
-import dao.Functionalities as Functionalities
+import dao.IHospitalService as IHospitalService
 
 
 
@@ -28,7 +28,7 @@ def main():
 
     
     
-    New_Hospital=Functionalities.IHospitalService()
+    New_Hospital=IHospitalService.IHospitalService()
     
     while True:
         try:
