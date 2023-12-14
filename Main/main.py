@@ -2,7 +2,7 @@ import util.DBConnection as DBConnection
 import Entity.Patient as P
 import Entity.Appointment as A
 import Entity.Doctor as D
-import Entity.CreateTable as C
+import dao.CreateTable as C
 import dao.Functionalities as Functionalities
 
 
