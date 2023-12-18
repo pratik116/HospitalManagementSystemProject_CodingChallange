@@ -1,11 +1,11 @@
 setup.py
 Entity/Appointment.py
-Entity/CreateTable.py
 Entity/Doctor.py
 Entity/Patient.py
 Entity/__init__.py
 Exception/InvalidIdException.py
 Exception/__init__.py
+Exception/doctorIdNotFound.py
 Exception/patientIdNotFound.py
 Main/__init__.py
 Main/main.py
@@ -13,7 +13,8 @@ PW.egg-info/PKG-INFO
 PW.egg-info/SOURCES.txt
 PW.egg-info/dependency_links.txt
 PW.egg-info/top_level.txt
-dao/Functionalities.py
+dao/CreateTable.py
+dao/IHospitalService.py
 dao/__init__.py
 util/DBConnection.py
 util/PropertyUtil.py
