@@ -1,6 +1,8 @@
 Hospital Management System
-
+************************************************
 • The following Directory structure is to be followed in the application.
+
+
 o entity
 ▪ Create entity classes in this package. All entity class should not have any
 business logic.
