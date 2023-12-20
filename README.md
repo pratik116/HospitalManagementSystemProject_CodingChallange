@@ -1,7 +1,6 @@
-Crime Analysis and Reporting System (C.A.R.S.)
+Hospital Management System
 
-
-The following Directory structure is to be followed in the application.
+• The following Directory structure is to be followed in the application.
 o entity
 ▪ Create entity classes in this package. All entity class should not have any
 business logic.
@@ -24,7 +23,3 @@ o main
 ▪ Create a class MainModule and demonstrate the functionalities in a menu
 driven application.
 
-Key Functionalities:
-The primary objective of this project is to develop a comprehensive Crime Analysis and Reporting
-System (CARS) that addresses the above-mentioned challenges and provides law enforcement agencies
-with a robust, user-friendly, and secure platform for crime data management and reporting.
