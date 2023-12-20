@@ -1,4 +1,6 @@
 Crime Analysis and Reporting System (C.A.R.S.)
+
+
 The following Directory structure is to be followed in the application.
 o entity
 ▪ Create entity classes in this package. All entity class should not have any
